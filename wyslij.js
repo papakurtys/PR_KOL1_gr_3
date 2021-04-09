@@ -5,8 +5,8 @@ function wyslij(){
 
     if (Email != ""){
         document.getElementById("wynik").innerHTML="Email: "+ Email
-        document.getElementById("wynik").innerHTML="Temat: "+ Temat
-        document.getElementById("wynik").innerHTML="wiadomość: "+ Wiadomosc
+        document.getElementById("wynik2").innerHTML="Temat: "+ Temat
+        document.getElementById("wynik3").innerHTML="wiadomość: "+ Wiadomosc
         }
 
 }
